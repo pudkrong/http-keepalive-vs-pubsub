@@ -17,7 +17,7 @@ round 5: 44.157 secs
 avg: 35.828 secs
 ```
 
-## HTTP with keepalive (It fires about 100 connections to server)
+## HTTP with keepalive (It fires about 10k connections to server)
 ```
 round 1: 1.959 secs
 round 2: 2.701 secs
